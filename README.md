@@ -1,5 +1,5 @@
 # Heba-Restaurant
-Foods 
+Food
 <!DOCTYPE html>
 <html lang="ar">
 <head>
@@ -107,28 +107,28 @@ Foods
 
         <div class="card">
 
-            <img src="images/beef-burgar.jpg" alt="">
+            <img src="images/beef-burgar.jpg" >
             <h3>برجر لحم</h3>
             <p class="price">25 ريال</p>
             <button>اطلب الآن</button>
         </div>
 
         <div class="card">
-            <img src="pizza.jpg" alt="">
+            <img src="images/pizza.jpg" >
             <h3>بيتزا</h3>
             <p class="price">30 ريال</p>
             <button>اطلب الآن</button>
         </div>
 
         <div class="card">
-            <img src="images/french-fries.jpg" alt="">
+            <img src="images/french-fries.jpg" >
             <h3>بطاطس مقلية</h3>
             <p class="price">10 ريال</p>
             <button>اطلب الآن</button>
         </div>
 
         <div class="card">
-            <img src="images/orange-juice.jpg" alt="">
+            <img src="images/orange-juice.jpg" >
             <h3>عصير برتقال</h3>
             <p class="price">12 ريال</p>
             <button>اطلب الآن</button>
